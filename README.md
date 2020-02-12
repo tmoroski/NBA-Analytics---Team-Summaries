@@ -7,5 +7,5 @@
 
 4. The link to view the Visualization database can be found below:
 
-"https://public.tableau.com/views/NBAStatisticsVisualizations/NBAVisualizationDatabase00-20?:display_count=y&:origin=viz_share_link"
+https://public.tableau.com/views/NBAStatisticsVisualizations/NBAVisualizationDatabase00-20?:display_count=y&:origin=viz_share_link
 
