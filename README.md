@@ -1,4 +1,4 @@
-# NBA-Analytics---Team-Summaries
+# NBA-Analytics---League Statistics 2000-2020
 1. This repo contains two backend files
 
 2. The first backend file (A) contains the webscrapping process to extract the data from NBAREFERENCE.COM
