@@ -1,8 +1,11 @@
 # NBA-Analytics---Team-Summaries
-1. This repo contains two backend files and the front end container for all of the team visualizations.
+1. This repo contains two backend files
 
 2. The first backend file (A) contains the webscrapping process to extract the data from NBAREFERENCE.COM
 
-3.The second backend file (B) contains data preprocessing methods and functions for visualizations
+3.The second backend file (B) contains dataframe preprocessing and tableau export method 
 
-4. The front end file (C) contains the visualizations for each NBA team
+4. The link to view the Visualization database can be found below:
+
+"https://public.tableau.com/views/NBAStatisticsVisualizations/NBAVisualizationDatabase00-20?:display_count=y&:origin=viz_share_link"
+
