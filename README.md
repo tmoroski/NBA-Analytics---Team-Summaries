@@ -3,7 +3,7 @@
 
 2. The first backend file (A) contains the webscrapping process to extract the data from NBAREFERENCE.COM
 
-3.The second backend file (B) contains dataframe preprocessing and tableau export method 
+ 3.The second backend file (B) contains dataframe preprocessing and tableau export method 
 
 4. The link to view the Visualization database can be found below:
 
